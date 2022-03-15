@@ -11,6 +11,7 @@
     "test": "tap",
     "develop": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy"
+    "build": "npx @11ty/eleventy --pathprefix 'PDO-osom.guide'",
   },
   "keywords": [
     "OSOM",
