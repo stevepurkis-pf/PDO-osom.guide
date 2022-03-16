@@ -15,7 +15,7 @@ The operating model has evolved by encouraging a [common set of good behaviours]
 
 The key components of OSOM are an executive capability that provides
 oversight & governance and a network of services that progress through
-a simple [service lifecycle]({{ '/lifecycle' | url }}) compatible with the
+a simple [service lifecycle](/lifecycle) compatible with the
 [Government Digital
 Service's](https://www.gov.uk/government/organisations/government-digital-service)
 [service manual](https://www.gov.uk/service-manual).
