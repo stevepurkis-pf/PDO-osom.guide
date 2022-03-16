@@ -33,6 +33,7 @@ pages:
 - src/policy.md
 - src/service-autonomy.md
 - src/service-contract.md
+- src/service-manager-role.md
 - src/service-network.md
 - src/service-team-members.md
 - src/services.md
