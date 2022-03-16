@@ -9,7 +9,7 @@ The Organised Services Operating Model (OSOM) is a template operating
 model to help organisations adopt a service-based approach. This is in
 opposition to a functional model, where capabilities are grouped by
 skills and ownership of the delivery to users is an endeavour shared
-between those functions. :-)
+between those functions.
 
 The operating model has evolved by encouraging a [common set of good behaviours](/doctrine) at multiple organisations and discovering an organisational design and supporting processes that occur as a consequence.
 
