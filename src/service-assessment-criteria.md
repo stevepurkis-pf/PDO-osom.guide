@@ -1,0 +1,47 @@
+---
+layout: document
+tags: []
+subtitle: Service Assessment Criteria
+
+---
+When conducting a [service assessment](/assessments), the executive is free to choose which criteria to judge a service by.  They are usually based on the [guides to better behaviour](/doctrine), and determined by the nature of the service and its current [lifecycle stage](/lifecycle).
+
+## Common Assessment Criteria
+
+* Understand [users](/doctrine/#do-we-know-our-users) and [their needs](/user-needs)
+* Solve a whole problem for users _(_[_read more_](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem)_)_
+* Make the service simple to use _(_[_read more_](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use)_)_
+* Provide a joined up experience across the network
+* Create a secure service which protects users’ privacy
+* Build the [right team](/doctrine/#structure)
+* Use [appropriate methods](/doctrine/#do-we-use-appropriate-methods-in-the-appropriate-places)
+* Use [appropriate standards](/doctrine/#do-we-use-appropriate-standards)
+* Operate a reliable service
+
+### Common Technical Assessment Criteria
+
+* Choose the right [tools and technology](/doctrine/#do-we-use-the-appropriate-tools)
+* Make new source code [open](/doctrine/#do-we-have-a-natural-bias-towards-transparency-and-openness)
+* Use and contribute to [open standards](/doctrine/#do-we-use-appropriate-standards), common components and patterns
+
+## Lifecycle Stages
+
+### Discovery Stage
+
+todo
+
+### Alpha Stage
+
+todo
+
+### Beta Stage
+
+todo
+
+### Live Stage
+
+todo
+
+#### Additional Context
+
+Some of these criteria are based on the [UK Government's service-standard](https://www.gov.uk/service-manual/service-standard "Service Standard").
