@@ -5,9 +5,11 @@ tags:
 - processes
 
 ---
-To help ensure the smooth running of a service network, the executive needs to assess each [service](/services/) regularly. This assessment can be conducted directly by the executive or delegated to a team of experts assembled for the task.
+To help ensure the smooth running of the service network, the executive needs to assess each [service](/services/) regularly. This assessment may be conducted directly by the executive or delegated to a team of experts assembled for the task.
 
-The primary purpose of the assessment is to understand how well the service meets the user needs, but it will also examine how the service is being managed and how well it has adopted the [behaviours](/doctrine).
+The primary purpose of the assessment is to understand how well the service meets its [user needs](/user-needs), but it will also examine how the service is being managed, for example: how it has applied [guidance](/guidance) and [mandates](/mandates), and how well it has adopted the [guides to better decisions](/doctrine).
+
+An agenda including the executive's chosen [assessment criteria](/assessment-criteria) will be sent out in advance, and once assessed, the executive publishes a [service assessment report](/service-assessment-report).
 
 While the purpose of the assessment remains the same, the nature of the assessment will change as the service progresses through the [lifecycle](/lifecycle/).
 
