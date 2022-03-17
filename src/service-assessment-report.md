@@ -8,7 +8,7 @@ subtitle: Service Assessment Report
 Service assessment reports are published in a public repository **_(location TBC)_** by the executive after each assessment.  They contain:
 
 * **Assessment date**
-* **Result:** Met or Not Met
+* **Result:** _Met_ or _Not Met_
 * **Stage:** the service's [lifecycle stage](/lifecycle), when assessed
 * **Service manager**
 * **Service contract:** a copy of, or link to the specific version of the service contract (in particular: description, [user needs](/user-needs), and [metrics](/measuring-service-performance))
