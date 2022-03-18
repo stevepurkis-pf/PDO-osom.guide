@@ -19,7 +19,7 @@ The executive also has a role in advocating and monitoring the adoption of [guid
 
 Each service is built & operated by a [Service Manager](/service-managers), who is accountable for running the service in all its [lifecycle phases](/lifecycle) - from discovery until its eventual retirement.  They are given full autonomy, and are held to account in regular [assessments](/assessments) by the PDO Executive.
 
-#### Context
+## Context
 
 The PDO Services model is based on [Organised Services Operating Model (OSOM)](https://osom.guide), which evolved by encouraging the [guides to better decisions](/doctrine) at multiple organisations.
 
