@@ -19,8 +19,9 @@ The criteria used are included in the [service assessment report](/service-asses
 * Use [appropriate methods](/doctrine/#do-we-use-appropriate-methods-in-the-appropriate-places)
 * Use [appropriate standards](/doctrine/#do-we-use-appropriate-standards)
 * Operate a reliable service
+* How is the service applying guidelines?
 
-_Other_ [_guides to better decisions_](/doctrine) _may be used._
+Other [guides to better decisions](/doctrine) may be used.
 
 ### Common Technical Assessment Criteria
 
