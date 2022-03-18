@@ -9,4 +9,8 @@ The Correction of Error (CoE) process was inspired by the [AWS](https://wa.aws.a
 
 ## The Corrections of Error review
 
-The [executive](/executive) should [conduct regular reviews](/executive#review-correction-of-error-documents) of the unreviewed, published CoE documents with all service managers. This review allows other service managers to benefit from the experience of the error, without being a part of the service team that experienced the error.
+On a weekly basis the [executive](/executive) will [conduct regular reviews](/executive#review-correction-of-error-documents) of unreviewed Correction of Error documents.
+
+This review will review a small number of randomly selected CoE documents and ask the relevant service manager to present and lead a discussion about the error.
+
+This review allows other service managers to benefit from the experience of the error, without being a part of the service team that experienced the error. It also helps the Executive team to identify areas to consider future guidance.
