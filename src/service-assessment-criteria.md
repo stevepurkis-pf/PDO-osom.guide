@@ -11,9 +11,9 @@ The criteria used are included in the [service assessment report](/service-asses
 ## Common Assessment Criteria
 
 * Understand [users](/doctrine/#do-we-know-our-users) and [their needs](/user-needs)
-* Solve a whole problem for users _(_[_read more_](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem)_)_
+* Solve a whole problem for users with the network _(_[_read more_](https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem)_)_
 * Make the service simple to use _(_[_read more_](https://www.gov.uk/service-manual/service-standard/point-4-make-the-service-simple-to-use)_)_
-* Provide a joined up experience across the network
+* Provide a joined up experience across channels _(_[_read more_](https://www.gov.uk/service-manual/service-standard/point-3-join-up-across-channels)_)_
 * Create a secure service which protects users’ privacy
 * Build the [right team](/doctrine/#structure)
 * Use [appropriate methods](/doctrine/#do-we-use-appropriate-methods-in-the-appropriate-places)
