@@ -9,6 +9,8 @@ The OSOM executive provides oversight and governance to the [service network](/s
 
 In an ideal organisation, there would be no requirement for an executive _team_. The responsibilities held by the executive, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the executive is responsible for augmenting their own skills with the addition of [executive team members](/executive-team-member) who speak with the voice of the executive.
 
+An executive that is fully rounded will encompass finance, HR, procurement, security, strategy, architecture & technology, portfolio, policy and secretariat capabilities.
+
 ## The role of the executive
 
 The executive has a number of roles and responsibilities in OSOM:
