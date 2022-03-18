@@ -13,7 +13,7 @@ Service assessment reports are published in a public repository **_(location TBC
 * **Service manager**
 * **Service contract:** a copy of, or link to the specific version of the service contract (in particular: description, [user needs](/user-needs), and [metrics](/measuring-service-performance))
 * **Assessors:** names of the people representing the executive
-* **Assessment criteria**: an itemised list of [criteria](/assessment-criteria) used to assess the service, including:
+* **Assessment criteria**: an itemised list of [criteria](/service-assessment-criteria) used to assess the service, including:
   * criteria name, and link to more information
   * decision (_Met_ or _Not Met_)
   * what the team has done well
