@@ -57,6 +57,8 @@ Has established a broad and deep business knowledge including the activities and
 
 ## Relevant SFIA skills
 
+The following skills are relevant for members of the executive team members _as a whole_ rather than as individuals. A well-constituted executive team will display all of these skills.
+
 ### [Strategic planning](https://sfia-online.org/en/sfia-8/skills/strategic-planning)
 
 ### [Information systems coordination](https://sfia-online.org/en/sfia-8/skills/information-systems-coordination)
@@ -85,11 +87,8 @@ Has established a broad and deep business knowledge including the activities and
 
 ### [Risk management](https://sfia-online.org/en/sfia-8/skills/risk-management)
 
-
 ### [Portfolio management](https://sfia-online.org/en/sfia-8/skills/portfolio-management)
 
 ### [Business situation analysis](https://sfia-online.org/en/sfia-8/skills/business-situation-analysis)
 
-
 ### [Organisation design and implementation](https://sfia-online.org/en/sfia-8/skills/organisation-design-and-implementation)
-
