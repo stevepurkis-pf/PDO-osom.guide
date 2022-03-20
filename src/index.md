@@ -29,5 +29,6 @@ The PDO Services model is based on [Organised Services Operating Model (OSOM)](h
 {% if article.data.subtitle.length > 0 %}
 
 1. [{{ article.data.subtitle }}]({{ article.url }})
-   {% endif %}
-   {% endfor %}
+
+{% endif %}
+{% endfor %}
