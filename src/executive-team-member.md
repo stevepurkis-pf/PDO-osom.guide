@@ -57,6 +57,39 @@ Has established a broad and deep business knowledge including the activities and
 
 ## Relevant SFIA skills
 
-### Strategic planning
+### [Strategic planning](https://sfia-online.org/en/sfia-8/skills/strategic-planning)
 
-Information systems
+### [Information systems coordination](https://sfia-online.org/en/sfia-8/skills/information-systems-coordination)
+
+### [Information management](https://sfia-online.org/en/sfia-8/skills/information-management)
+
+### [Enterprise and business architecture](https://sfia-online.org/en/sfia-8/skills/enterprise-and-business-architecture)
+
+### [Solution architecture](https://sfia-online.org/en/sfia-8/skills/solution-architecture)
+
+### [Emerging technology monitoring](https://sfia-online.org/en/sfia-8/skills/emerging-technology-monitoring)
+
+### [Demand management](https://sfia-online.org/en/sfia-8/skills/demand-management)
+
+### [Investment appraisal](https://sfia-online.org/en/sfia-8/skills/investment-appraisal)
+
+### [Financial management](https://sfia-online.org/en/sfia-8/skills/financial-management)
+
+### [Information security](https://sfia-online.org/en/sfia-8/skills/information-security)
+
+### [Information assurance](https://sfia-online.org/en/sfia-8/skills/information-assurance)
+
+### [Threat intelligence](https://sfia-online.org/en/sfia-8/skills/threat-intelligence)
+
+### [Governance](https://sfia-online.org/en/sfia-8/skills/governance)
+
+### [Risk management](https://sfia-online.org/en/sfia-8/skills/risk-management)
+
+
+### [Portfolio management](https://sfia-online.org/en/sfia-8/skills/portfolio-management)
+
+### [Business situation analysis](https://sfia-online.org/en/sfia-8/skills/business-situation-analysis)
+
+
+### [Organisation design and implementation](https://sfia-online.org/en/sfia-8/skills/organisation-design-and-implementation)
+
