@@ -23,12 +23,3 @@ Each service is built & operated by a [Service Manager](/service-managers), who 
 
 The PDO Services model is based on [Organised Services Operating Model (OSOM)](https://osom.guide), which evolved by encouraging the [guides to better decisions](/doctrine) at multiple organisations.
 
-#### Recent changes
-
-{% for article in collections.all limit:5 reversed %}
-{% if article.data.subtitle.length > 0 %}
-
-1. [{{ article.data.subtitle }}]({{ article.url }})
-
-{% endif %}
-{% endfor %}
