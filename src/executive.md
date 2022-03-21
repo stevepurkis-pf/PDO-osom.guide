@@ -25,17 +25,17 @@ The executive has a number of roles and responsibilities in OSOM:
 8. Mediate between services
 9. Monitor and advocate better decision making
 
-## Establish, decommission, assess, alter, and hold services accountable
+### Establish, decommission, assess, alter, and hold services accountable
 
 A key role of the executive is to establish services; conduct assessments on them as they progress from discovery to alpha, alpha to beta, and beta to live; disband the services when no longer needed, and hold the managers of those services accountable throughout the [service lifecycle](/lifecycle).
 
-### Establish Services
+#### Establish Services
 
 The Executive [establishes a service](/establishing-a-new-service/) by publishing a [Service Contract](/service-contract), allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
 
 In some instances - for example, as OSOM is adopted in an existing organisation - a service contract may be written for a service that already exists. In this case, the service may not progress through the service lifecycle as normal, but in all other respects should be governed as any other service.
 
-### Assess services
+#### Assess services
 
 Services should be assessed at every stage in their lifecycle, as they progress from:
 
@@ -45,7 +45,7 @@ Services should be assessed at every stage in their lifecycle, as they progress 
 
 Once a service has reached its live state, regular assessments should be conducted to understand service improvements and changes over time.
 
-### Decommission services
+#### Decommission services
 
 In order to ensure the organisation functions both efficiently and effectively, the Executive should decommission a service when either:
 
@@ -59,19 +59,19 @@ Occasionally a service contract as written and established through the service l
 
 The executive can do this, but should only do so sparingly: a contract change has associated risks that should not be ignored.
 
-### Hold services accountable
+#### Hold services accountable
 
 The Executive is responsible for holding Service Managers accountable for the services they operate. This includes performance, conformance to guidance, methodology, decision making, and any other consideration the executive wishes.
 
 It should be noted that the Executive does not have the authority to dictate any of these elements to the service, via the Service Manager, but it does have the authority to appoint and replace the Service Manager if it sees fit.
 
-## Allocate budgets to services
+### Allocate budgets to services
 
 Services and their service managers must have budgets to operate, and the nature of the budgets will be different depending on where in a service's lifecycle it is, and the type of consumers the service has.
 
 Budget allocation is a complex task that needs to be carefully considered. One approach to this is [capital flow management](/capitalflow "capital flow management").
 
-## Review and analyse fitness data & maps
+### Review and analyse fitness data & maps
 
 The executive reviews and analyses fitness data published by services, and Wardley Maps of each service produced by their Service Managers. The fitness data is used to understand the performance of the service: is it meeting the needs of the users as intended?
 
@@ -81,17 +81,17 @@ Wardley Maps of each service should be maintained by their respective Service Ma
 
 Benefits realization should be reported through these mechanisms.
 
-## Issue mandates to manipulate the service network
+### Issue mandates to manipulate the service network
 
 When changes to services or the service network are foreseen or desired, the executive issues mandates to the appropriate service managers. A mandate shouldn’t alter a service contract, but it may have an impact on the way a service manager chooses to meet the needs enumerated in the contract.
 
-## Review Correction of Error documents
+### Review Correction of Error documents
 
 When problems arise inside services, Service Managers are expected to publish [Correction of Error](/coe "Correction of Error") (CoE) documents to the organisation, which help it to learn and grow. The executive should review and consider those CoE documents to understand if there is additional guidance that should be considered for publication.
 
 The executive should consider conducting a regular meeting with all Service Managers where CoE documents are reviewed publicly to ensure a high level of awareness of opportunities for improvement throughout the organisation’s service network.
 
-## Consider, publish and endorse guidance
+### Consider, publish and endorse guidance
 
 The executive is responsible for considering and publishing guidance for service managers to consider. This may include guidance on technology selection, architectural patterns, security policies, procurement processes, etc.
 
@@ -101,7 +101,7 @@ Where possible, the guidance should be advisory in nature. In general, Service M
 
 [Lewis Eisen](https://lewiseisen.com/)'s work provides practical, concise help for people who want to write better policies that people want to follow.
 
-## Endorse Communities of Practice
+### Endorse Communities of Practice
 
 In any service-based model, it can be hard to ensure people are evaluated fairly, or that they become aware of practices and opportunities outside of the services they work in. [Communities of Practice](/community-of-practice/) (CoPs) exist in OSOM to bridge the gap between the profession and the service.
 
@@ -109,12 +109,50 @@ CoPs are freely associated with anybody in the organisation. It is up to the exe
 
 The executive should work with communities of practice to ensure that where possible all professions are represented by one or more Communities of Practice.
 
-## Mediate between services
+### Mediate between services
 
 In any service network, disputes will arise between services that serve each other. When this occurs, the executive must mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
 
-## Monitor and advocate better decision making
+### Monitor and advocate better decision making
 
 The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decision](/doctrine)s. One of the ways in which this happens is through the [Correction of Error process](/coe/).
 
 Each of the elements of OSOM has been designed in conjunction with the application of those behaviours, and the executive is responsible for constantly being aware of opportunities to alter the operating model more in line with them when needed.
+
+## Relevant SFIA skills
+
+The following skills are relevant for members of the executive team members _as a whole_ rather than as individuals. A well-constituted executive team will display all of these skills.
+
+### [Strategic planning](https://sfia-online.org/en/sfia-8/skills/strategic-planning)
+
+### [Information systems coordination](https://sfia-online.org/en/sfia-8/skills/information-systems-coordination)
+
+### [Information management](https://sfia-online.org/en/sfia-8/skills/information-management)
+
+### [Enterprise and business architecture](https://sfia-online.org/en/sfia-8/skills/enterprise-and-business-architecture)
+
+### [Solution architecture](https://sfia-online.org/en/sfia-8/skills/solution-architecture)
+
+### [Emerging technology monitoring](https://sfia-online.org/en/sfia-8/skills/emerging-technology-monitoring)
+
+### [Demand management](https://sfia-online.org/en/sfia-8/skills/demand-management)
+
+### [Investment appraisal](https://sfia-online.org/en/sfia-8/skills/investment-appraisal)
+
+### [Financial management](https://sfia-online.org/en/sfia-8/skills/financial-management)
+
+### [Information security](https://sfia-online.org/en/sfia-8/skills/information-security)
+
+### [Information assurance](https://sfia-online.org/en/sfia-8/skills/information-assurance)
+
+### [Threat intelligence](https://sfia-online.org/en/sfia-8/skills/threat-intelligence)
+
+### [Governance](https://sfia-online.org/en/sfia-8/skills/governance)
+
+### [Risk management](https://sfia-online.org/en/sfia-8/skills/risk-management)
+
+### [Portfolio management](https://sfia-online.org/en/sfia-8/skills/portfolio-management)
+
+### [Business situation analysis](https://sfia-online.org/en/sfia-8/skills/business-situation-analysis)
+
+### [Organisation design and implementation](https://sfia-online.org/en/sfia-8/skills/organisation-design-and-implementation)
