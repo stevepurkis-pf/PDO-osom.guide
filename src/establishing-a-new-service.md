@@ -27,4 +27,8 @@ There are two occasions likely to arise where a new service might be needed. The
 
 The second circumstance occurs when two or more existing services are addressing a need within their service boundary and the opportunity to remove duplication exists by consolidating that capability as a shared service that they - and other services could consume instead.
 
-Processes within the PDO operating model such as Service Assessments should be used to help identify unmet needs.
+### Service Assessments
+
+#### Maps
+
+#### Dependencies
