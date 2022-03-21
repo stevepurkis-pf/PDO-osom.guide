@@ -65,17 +65,15 @@ Each service has relevant measurements recorded in its service contract. The ser
 
 ## Service manager role
 
-**_Skills, responsibilities and purpose_**
-
 Being a service manager is not a job, it is a _role_.
 
-While some services may require specialist service managers frequently they start their careers in other professions. Consequently, a service manager may perform additional duties on a service team. For example, delivery managers and lead engineers both may be suitable candidates for the role.
+While some services may require specialist service managers frequently they start their careers in other professions. Consequently, a service manager may perform additional duties on a service team. For example, delivery managers and lead engineers both may be suitable candidates to perform the service manager role alongside their other duties.
 
 ### Purpose
 
 Each service has a contract that defines the service, the needs it meets, and how users consume it. Service managers are **accountable** for delivery against that contract. Within the bounds of that contract, they are free to deliver the service as they see fit. The service is **autonomous** and operates independently.
 
-The service manager understands the service’s users**.** They are able to identify who they are and what their user needs are. They can translate user stories and propose or consider approaches to meeting these needs. They engage in meaningful interactions and relationships with users, always putting them first.
+The service manager understands the service’s users. They are able to identify who they are and what their user needs are. They can translate user stories and propose or consider approaches to meeting these needs. They engage in meaningful interactions and relationships with users, always putting them first.
 
 ### Responsibilities
 
