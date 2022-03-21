@@ -19,7 +19,7 @@ In the discovery phase, research is conducted to validate the hypothetical user 
 
 It should be agreed early on between the service manager and the executive what the timeline for discovery is.  Shortly into the discovery phase, a timeframe for a [Service Assessment](/service-assessment/) should be scheduled to review what the discovery process has uncovered.
 
-The discovery phase doesn't need to last for a long time, and it shouldn't be expensive. Its purpose is to test some assumptions that the executive inevitably makes when they considered the service, and ensure that no opportunity is being missed.
+The discovery phase doesn't need to last for a long time, and it shouldn't be expensive. Its purpose is to test some assumptions that the executive inevitably makes when they consider the service and ensure that no opportunity is missed.
 
 ## How to know when to create a new service
 
