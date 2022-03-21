@@ -113,3 +113,44 @@ A service manager may not have each of these skills, but in order for a service 
 * [**Organisation design & implementation**](https://sfia-online.org/en/sfia-8/skills/organisation-design-and-implementation). Planning, designing and implementing an integrated organisation structure and culture. (Level 4 for small services, Level 6-7 for large services)
 * [**Performance management**](https://sfia-online.org/en/sfia-8/skills/performance-management). Improving organisational performance by developing the performance of individuals and workgroups to meet agreed objectives with measurable results. (Small services: Level 4; Large services: Level 5-6)
 * [**Competency assessment**](https://sfia-online.org/en/sfia-8/skills/competency-assessment). Assessing knowledge, skills, competency and behaviours by any means, whether formal or informal, against frameworks such as SFIA. (Level 3+)
+
+## SFIA levels of responsibility
+
+The following SFIA levels of responsibility are appropriate for Service Managers. They represent a minimum rather than a level of attainment.
+
+This text has been copied verbatim from the [SFIA site](https://sfia-online.org/).
+
+### [Autonomy](https://sfia-online.org/en/sfia-8/responsibilities/autonomy)
+
+**Level 6 - Initiate, influence**
+
+Has defined authority and accountability for actions and decisions within a significant area of work, including technical, financial and quality aspects. Establishes organisational objectives and assigns responsibilities.
+
+### [Influence](https://sfia-online.org/en/sfia-8/responsibilities/influence)
+
+**Level 5 - Ensure, advise**
+
+Influences organisation, customers, suppliers, partners and peers on the contribution of own specialism. Makes decisions which impact the success of assigned work, i.e. results, deadlines and budget. Has significant influence over the allocation and management of resources appropriate to given assignments. Leads on user/customer and group collaboration throughout all stages of work. Ensures users’ needs are met consistently through each work stage. Builds appropriate and effective business relationships across the organisation and with customers, suppliers and partners. Creates and supports collaborative ways of working across group/area of responsibility. Facilitates collaboration between stakeholders who have diverse objectives.
+
+### [Complexity](https://sfia-online.org/en/sfia-8/responsibilities/complexity)
+
+**Level 3 - Apply**
+
+Performs a range of work, sometimes complex and non-routine, in a variety of environments. Applies a methodical approach to routine and moderately complex issue definition and resolution. Applies and contributes to creative thinking or finds new ways to complete tasks.
+
+### [Business skills](https://sfia-online.org/en/sfia-8/responsibilities/business-skills)
+
+**Level 3 - Apply**
+
+* Demonstrates effective oral and written communication skills when engaging on issues with colleagues, users/customers, suppliers and partners.
+* Understands and effectively applies appropriate methods, tools, applications and processes.
+* Demonstrates judgement and a systematic approach to work.
+* Effectively applies digital skills and explores these capabilities for their role.
+* Learning and professional development — takes the initiative to develop own knowledge and skills by identifying and negotiating appropriate development opportunities.
+* Security, privacy and ethics — demonstrates appropriate working practices and knowledge in non-routine work. Appreciates how own role and others support appropriate working practices.
+
+### [Knowledge](https://sfia-online.org/en/sfia-8/responsibilities/knowledge)
+
+**Level 5 - Ensure, advise**
+
+Is fully familiar with recognised industry bodies of knowledge both generic and specific, and knowledge of the business, suppliers, partners, competitors and clients. Develops a wider breadth of knowledge across the industry or business. Applies knowledge to help to define the standards which others will apply.
