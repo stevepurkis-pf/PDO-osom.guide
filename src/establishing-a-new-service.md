@@ -27,10 +27,16 @@ There are two occasions likely to arise where a new service might be needed. The
 
 The second circumstance occurs when two or more existing services are addressing a need within their service boundary and the opportunity to remove duplication exists by consolidating that capability as a shared service that they - and other services could consume instead.
 
-### Service Assessments
+### Service assessments & unmet needs
 
 #### Maps
 
+Service managers should produce Wardley maps of their services, including the components or systems they use within the service. As the executive considers maps of multiple services, it should be possible to identify duplication that might suggest unmet needs across service boundaries.
+
 #### Dependencies
 
-### External Demand
+As service managers select other services to depend upon they generate signals about the user needs that they have. This information should be used to both confirm and disprove bias. For example, if a service manager declines to use a service it may be that the service manager was unaware of it, but equally, it may indicate there are unmet needs.
+
+#### Demand Requests
+
+External demand may be captured from requests that [users make to service managers](/service-managers/#highlight-where-their-service-is-not-meeting-needs). 
