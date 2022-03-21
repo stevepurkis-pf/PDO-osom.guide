@@ -34,5 +34,3 @@ The second circumstance occurs when two or more existing services are addressing
 #### Dependencies
 
 ### External Demand
-
-We need to understand the governance that the executive submits to.
