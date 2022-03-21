@@ -1,7 +1,6 @@
 ---
 layout: document
-tags:
-- people
+tags: []
 subtitle: Service Manager Role
 
 ---
