@@ -7,11 +7,7 @@ tags:
 ---
 ## Service managers
 
-Service managers individually manage services. Ideally, the service
-manager would have the capability to deliver every element of their
-service - designing it, building or buying it, and then running it -
-however, in practice, they must build and manage a team capable of
-doing all of those things.
+Service managers individually manage services. Ideally, the service manager would have the capability to deliver every element of their service - designing it, building or buying it, and then running it - however, in practice, they must build and manage a team capable of doing all of those things.
 
 Service managers:
 
@@ -21,6 +17,7 @@ Service managers:
 4. Decide the way they run their team
 5. Publish Correction of Error documents when problems arise
 6. Publish measurements for their service
+7. Highlight where their service is not meeting user needs
 
 ### Service managers are accountable for their service
 
@@ -41,27 +38,23 @@ Members of the team are line-managed by the service manager, or by the managemen
 
 ### Service managers decide the way they run their team
 
-Different types of services require different approaches for different
-stages of [evolution](/evolution/), and different [lifecycle](/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier.
+Different types of services require different approaches for different stages of [evolution](/evolution/), and different [lifecycle](/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier.
 
-For example, a service team building a beta web-based front-end that
-interacts with end-users requires a different set of approaches to an
-infrastructure cloud service that provides the front-end team with the
-machines it uses.
+For example, a service team building a beta web-based front-end that interacts with end-users requires a different set of approaches to an infrastructure cloud service that provides the front-end team with the machines it uses.
 
-The service manager is accountable for deciding the most appropriate
-way to run their team for their particular service.
+The service manager is accountable for deciding the most appropriate way to run their team for their particular service.
 
 ### Service managers publish Correction of Error documents when problems arise
 
-Building and running a service is challenging at times, and issues and
-problems occur regularly. To help the organisation learn in a
-methodical, systematic way, service managers write about the problems
-they face in [Correction of Error](/coe/) documents.
+Building and running a service is challenging at times, and issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in [Correction of Error](/coe/) documents.
 
 ### Publish measurements for their service
 
 Each service has relevant measurements recorded in its service contract. The service manager has to ensure that the values for those measurements are captured regularly, and [reported in an appropriate way](/measuring-service-performance/#recording-service-performance-measures/).
+
+### Highlight where their service is not meeting needs
+
+In some cases, the users of a service may express a desire to have additional needs met by the service. The service manager should not unilaterally decide to meet those needs but should highlight the opportunity as it is presented to the [executive ](/executive/)during future [Service Assessments](/assessments/).
 
 ## Service manager role
 
