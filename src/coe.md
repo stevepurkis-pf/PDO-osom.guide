@@ -9,7 +9,7 @@ The Correction of Error (CoE) process was inspired by the [AWS](https://wa.aws.a
 
 ## The Corrections of Error review
 
-On a weekly basis the [executive](/executive) will [conduct regular reviews](/executive#review-correction-of-error-documents) of unreviewed Correction of Error documents.
+The [executive](/executive) will [conduct weekly reviews](/executive#review-correction-of-error-documents) of unreviewed Correction of Error documents.
 
 This review will review a small number of randomly selected CoE documents and ask the relevant service manager to present and lead a discussion about the error.
 
