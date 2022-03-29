@@ -158,3 +158,5 @@ The following skills are relevant for members of the executive team members _as 
 ### [Organisation design and implementation](https://sfia-online.org/en/sfia-8/skills/organisation-design-and-implementation)
 
 ### [Sourcing](https://sfia-online.org/en/sfia-8/skills/sourcing)
+
+### [Marketing](https://sfia-online.org/en/sfia-8/skills/marketing)
