@@ -11,9 +11,9 @@ The service network does the heavy lifting for the organisation. It delivers aga
 
 They're not end-to-end silos or a transaction. They are discrete capabilities that can be assembled as components by other, increasingly higher-order capabilities, ultimately to present those customer journeys to users.
 
-Services are managed by service managers and are periodically assessed by the executive - at minimum each time the service progresses to a new stage in its [lifecycle](/lifecycle/), but regularly once the service goes [live](/lifecycle/#live) also.
+Services are managed by service managers and are periodically assessed by the executive - at minimum each time the service progresses to a new stage in its [lifecycle](/lifecycle/), and regularly once the service goes [live](/lifecycle/#live).
 
-Services have a contract they are required to meet and a budget with which to meet it. They are expected to design, build, and operate whatever is required to address the needs in the contract, but they are free to do so as they see fit. 
+Services have a contract they are required to meet and a budget with which to meet it. They are expected to design, build, and operate whatever is required to address the needs in the contract, but they are free to do so as they see fit.
 
 ## Service governance
 
