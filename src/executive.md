@@ -160,3 +160,5 @@ The following skills are relevant for members of the executive team members _as 
 ### [Sourcing](https://sfia-online.org/en/sfia-8/skills/sourcing)
 
 ### [Marketing](https://sfia-online.org/en/sfia-8/skills/marketing)
+
+### [Audit](https://sfia-online.org/en/sfia-8/skills/audit "Audit")
